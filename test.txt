@@ -1,0 +1,3 @@
+Hello, this is a test file.
+This file is used to test Java file handling.
+Let's see if Java can read this correctly.
